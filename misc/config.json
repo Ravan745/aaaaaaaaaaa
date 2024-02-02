@@ -1,0 +1,29 @@
+{
+  "bot_token": "MTE4MzI1NTA3NjcyNzQzNTM4Ng.GGQjWb.0u10YFREfaurRrm5Vr55c2BQyiiUz8NFu4TLO0",
+  "activity": {
+    "activities": [
+      {
+        "name": "discord.gg/69OP",
+        "type": 0
+      }
+    ],
+    "status": "idle"
+  },
+  "chat": {
+    "url": "http://api.brainshop.ai/get?bid=180138&key=vt3SwXskBIGuqT44&uid=[uid]&msg=[msg]",
+    "brainID": "180138",
+    "key": "vt3SwXskBIGuqT44"
+  },
+  "misc": {
+    "channels": [
+      "#",
+      "#",
+      "#",
+      "1194637669817401395",
+      "1180337651954483292",
+      "1180086318886289488"
+    ],
+    "noMention": true,
+    "directMessage": true
+  }
+}

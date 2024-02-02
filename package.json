@@ -1,0 +1,34 @@
+{
+  "name": "clevy",
+  "version": "2.0.0",
+  "description": "Open sourced Discord chat bot powered by brainshop.ai",
+  "main": "src/index.js",
+  "author": "Carbowix",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carbowix/Cleve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Carbowix/Cleve/issues"
+  },
+  "scripts": {
+    "start": "cd src && node index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord.js",
+    "discord-chat",
+    "discord-chatbot",
+    "chat",
+    "chatbot",
+    "tutorial",
+    "javascript"
+  ],
+  "dependencies": {
+    "discord-api-types": "^0.37.62",
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3"
+  }
+}
